@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "jest --watchAll --noStackTrace"
+  },
+  "main": "MyPromise.js",
+  "dependencies": {
+    "jest": "^28.0.3"
+  }
+}
